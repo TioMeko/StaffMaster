@@ -10,7 +10,7 @@
   - [Questions](#questions)
 
   ## Description
-With leaning of MySql, I was able to create StaffMaster to update a databsae of following department, roles, and employees with the correct ID assigned to the roles and employees.
+With the knowledge I have so far, I was able to create StaffMaster, which is used to update a database(MySQL) of that contains departments, roles, and employees with the correct ID assigned to the roles and employees.
 
   ## Demo
   
