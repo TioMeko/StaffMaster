@@ -14,7 +14,8 @@ With leaning of MySql, I was able to create StaffMaster to update a databsae of 
 
   ## Demo
   
-  https://user-images.githubusercontent.com/61386052/221914826-78cb28cf-690f-4657-9360-e29dbb148e42.mp4
+  [StaffMaster Demo.webm](https://user-images.githubusercontent.com/61386052/232245077-dd533874-37c7-44c9-a767-f4db1f6fcc76.webm)
+
 
   ### Prerequisites
 
